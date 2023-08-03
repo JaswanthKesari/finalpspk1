@@ -1,0 +1,10 @@
+body{
+    background: url(1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+}
+h1,h2,h3{
+    text-align: center;
+    color: azure;
+}
